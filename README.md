@@ -6,7 +6,7 @@
 - Install npm requests
 - Build call to nationaljournal.com/petro/briefing_updates
 - Store new updates within the app
-- Send to RPi printer
+- Send to RPi printer (using thermalprinter library? https://www.npmjs.com/package/thermalprinter)
 
 *Raspberry Pi*
 - Install Linux on Raspberry Pi
